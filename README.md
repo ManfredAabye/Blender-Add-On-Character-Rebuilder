@@ -1,4 +1,5 @@
 # CharacterRebuilder Addon für Blender 5
+Dieses Plugin ist noch nicht ausgereift.
 
 **Autor:** Manfred Aabye  
 **Version:** 1.0.0  
@@ -44,3 +45,4 @@ Siehe Howto.md für Schritt-für-Schritt-Anleitungen und Beispiele für alle unt
 ---
 
 Viel Erfolg beim Konvertieren deiner Rigs für Second Life & OpenSim!
+
