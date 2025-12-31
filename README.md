@@ -31,6 +31,7 @@ Konvertiert verschiedene Rig-Typen (Rigify, Avastar, Bento Buddy, Mixamo, DAZ) i
 3. Preset wählen (z.B. Rigify Default, Mixamo Default, DAZ Default)
 4. Knochen umbenennen und gewichten
 5. Optional: Preset oder Einstellungen speichern/laden
+6. Das Speichern funktioniert über Exportiere glTF 2.0 glb, Second Life und OpenSim Viewer erkennen die Knochenstruktur auch in glTF Dateien.
 
 ## Hinweise
 
@@ -45,4 +46,5 @@ Siehe Howto.md für Schritt-für-Schritt-Anleitungen und Beispiele für alle unt
 ---
 
 Viel Erfolg beim Konvertieren deiner Rigs für Second Life & OpenSim!
+
 
